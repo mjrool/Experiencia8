@@ -1,0 +1,74 @@
+.jumbotron{
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.jumbotron h1{
+	font-size: 30px;
+	
+}
+
+
+.button1{
+
+	padding: 6px;
+	border: none;
+	background: #2767B4;
+	border-radius: 5px;
+	width: 40px
+	height: 4px;
+	margin: 6px;
+	color: white;
+}
+
+.button2{
+
+	padding: 6px;
+	border: none;
+	background: #68CF68;
+	border-radius: 5px;
+	width: 40px
+	height: 4px;
+	margin: 6px;
+	color: white;
+
+}
+
+.bajo{
+	text-align: center;
+}	
+
+h2{
+	font-size: 15px;
+	text-align: center;
+}
+
+.jumbotron p{
+	font-size: 13px;
+	
+}
+
+.box1{
+	background-color: white;
+	padding-bottom: 0px;
+}
+
+
+
+.box1 img{
+	width: 70%;
+	margin-bottom: 0px;
+
+}
+
+.button3{
+
+	padding: 6px;
+	border: none;
+	background: #2767B4;
+	border-radius: 5px;
+	width: 40px
+	height: 4px;
+	margin: 6px;
+	color: white;
