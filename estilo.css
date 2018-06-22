@@ -1,13 +1,23 @@
-.jumbotron{
-	text-align: center;
-	padding-left: 20%;
-	padding-right: 20%;
+body{
+	font-size: 11px;
 }
 
-.jumbotron h1{
-	font-size: 30px;
-	
+.navbar{
+	background opacity: .25;
 }
+
+.boxcabeza h1{
+	font-size: 30px;
+}
+
+.boxcabeza{
+	background-image: url('bg.jpeg');
+	background-size: cover;
+	text-align: center;
+	color: white;
+	height: 300px;
+	padding-top: 60px;
+}	
 
 
 .button1{
@@ -44,22 +54,31 @@ h2{
 	text-align: center;
 }
 
-.jumbotron p{
-	font-size: 13px;
-	
-}
 
 .box1{
-	background-color: white;
+	
 	padding-bottom: 0px;
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
 }
 
 
 
 .box1 img{
-	width: 70%;
+	width: 40%;
 	margin-bottom: 0px;
 
+}
+
+.box2{
+	background-color: #EFEFEF;
+	margin: 0px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
 }
 
 .button3{
@@ -72,3 +91,21 @@ h2{
 	height: 4px;
 	margin: 6px;
 	color: white;
+}
+
+.box3{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: left;
+}
+
+.box3 h3{
+	font-size: 17px;
+}
+
+.boxfinal{
+	height: 30px;
+	background-color: black;
+	text-align: center;
+	color: white;
+}
