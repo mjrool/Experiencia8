@@ -2,9 +2,15 @@ body{
 	font-size: 11px;
 }
 
-.navbar{
+nav{
 	background opacity: .25;
+	height: 30px;
+	background-color: transparent;
 }
+ 
+nav img{
+	width: 20%;
+} 
 
 .boxcabeza h1{
 	font-size: 30px;
