@@ -2,15 +2,22 @@ body{
 	font-size: 11px;
 }
 
-nav{
-	background opacity: .25;
+nav {
 	height: 30px;
 	background-color: transparent;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 3%;
 }
  
-nav img{
-	width: 20%;
+.navbar-nav img{
+	max-width: 20%;
 } 
+
+.navbar-nav>li>a{
+	padding-top: 0px;
+	float: left;
+}
 
 .boxcabeza h1{
 	font-size: 30px;
@@ -22,7 +29,7 @@ nav img{
 	text-align: center;
 	color: white;
 	height: 300px;
-	padding-top: 60px;
+	padding-top: 80px;
 }	
 
 
