@@ -4,13 +4,14 @@ body{
 
 nav {
 	height: 30px;background-color: transparent;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 10%;
+	padding-right: 10%;
 	padding-top: 3%;
 }
  
 .navbar-nav img{
 	max-width: 20%;
+
 } 
 
 .navbar-nav>li>a{
@@ -24,7 +25,9 @@ nav {
 	text-align: center;
 	color: white;
 	height: 30%;
-	padding-top: 80px;
+	padding-top: 100px;
+	padding-left: 10%;
+
 }	
 
 .boxcabeza h1{
@@ -58,6 +61,7 @@ nav {
 
 .bajo{
 	text-align: center;
+	padding-bottom: 5%;
 }	
 
 h2{
@@ -69,17 +73,17 @@ h2{
 .box1{
 	height: 20%;
 	text-align: center;
-	background-color: red;
 	border-top: solid 1px #ccc;
 	border-bottom: solid 1px #ccc;
-	padding-right: 30%;
-	padding-left: 30%;
+	padding-right: 20%;
+	padding-left: 20%;
+	overflow: hidden;
 }
 
 
 
 .box1 img{
-	width: 40%;
+	width: 50%;
 	margin-bottom: 0px;
 
 }
@@ -87,11 +91,14 @@ h2{
 .box2{
 	background-color: #EFEFEF;
 	margin: 0px;
-	padding-bottom: 20%;
+	padding-bottom: 3%;
+	padding-top: 3%;
+	padding-right: 20%;
+	padding-left: 20%;
 	text-align: center;
 	border-top: solid 1px #ccc;
 	border-bottom: solid 1px #ccc;
-
+	overflow: hidden;
 	
 }
 
@@ -108,19 +115,24 @@ h2{
 }
 
 .box3{
-	height: 20%;
+	height: 10%;
 	padding-top: 5%;
+	padding-bottom: 5%;
 	text-align: left;
-	background-color: yellow;
+	padding-right: 20%;
+	padding-left: 20%;
 }
 
 .box3 h3{
 	font-size: 17px;
 }
 
+
 .boxfinal{
-	height: 30px;
+	height: 5%;
 	background-color: black;
 	text-align: center;
 	color: white;
+	overflow: hidden;
+	padding-top: 8px;
 }
